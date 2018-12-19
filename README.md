@@ -23,13 +23,6 @@ like this.
 |2.|YouTube |[Watch Video Tutorial](https://www.youtube.com/watch?v=8x5zH8p7R9g) |
 |3.|YouTube |[Subscribe to ProgrammingWizards TV Channel](http://www.youtube.com/c/programmingwizards) |
 
-# Video Tutorial
-
-If you prefer a video tutorial then we have one here:
-
-<div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8x5zH8p7R9g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 
 # Demo
